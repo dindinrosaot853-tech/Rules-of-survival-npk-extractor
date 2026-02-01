@@ -1,12 +1,13 @@
+https://dindinrosaot853-tech
 **Need python 3**
 
 **step1:**
 
-```git clone https://github.com/nihinivi/Rules-of-survival-npk-extractor.git```
+```git https://github.com/Rules-of-survival-extractor.git```
 
 **step2:**
 
-```cd Rules-of-survival-npk-extractor```
+```cd Rules-of-survival
 
 **step3:**
 
